@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jvcam\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jvcam\\.nuget\\packages"
+    ]
+  }
+}
